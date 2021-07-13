@@ -1,0 +1,33 @@
+Сайт: https://lenta.ru/news/2021/07/13/sev/
+Результат: текст статьи без потерь
+
+Сайт: https://moslenta.ru/news/rossiyanam-napomnili-pro-zapolonivshuyu-moskvu-assiriiskuyu-mafiyu-09-07-2021.htm
+Результат: текст статьи без потерь + некоторая информация из футера
+
+Сайт: https://www.gazeta.ru/social/news/2021/07/13/n_16237784.shtml
+Результат: текст статьи без потерь + некоторая информация из футера
+
+Сайт: https://yarnovosti.com/news/v-yaroslavskoy-oblasti-pyatero-mujchin-pronikli-nochyu-v-detskiy-lager/
+Результат: без шаблона - нет результата. С шаблоном текст статьи без потерь
+
+Сайт: https://ria.ru/20210712/ukraina-1741008144.html
+Результат: только заголовок
+
+
+Сайт: https://iz.ru/1192001/evgeniia-pertceva-elena-balaian/s-pritcelom-na-budushchee-vlasti-namereny-uzhestochit-trebovaniia-dlia-okhotnikov
+Результат: все очень плохо)
+
+Сайт: https://tass.ru/proisshestviya/11889927
+Результат: заголовок + абзац
+
+Сайт: https://regnum.ru/news/polit/3320066.html
+Результат: все очень плохо)
+
+Сайт: https://www.kommersant.ru/doc/4899191
+Результат: часть информации потеряна + лишняя информация из блока
+
+Сайт: https://aif.ru/politics/world/zahotyat_vyzhat_bablo_otdyh_dlya_turista_iz_rf_v_egipte_silno_podorozhaet
+Результат: текст статьи(с потерями) + немного лишней информации
+
+Сайт:https://tvrain.ru/news/pobeda_povysit_stoimost_aviabiletov_iz_za_novyh_pravil_medosmotra_bortprovodnikov-533845/
+Результат: текст статьи(с потерями) + немного лишней информации

@@ -1,0 +1,7 @@
+Шаблон для парсинга страницы:
+<Тег, в котором находится новость>;<Класс тега>;<Тег, в котором текст новости>
+
+Например:
+Для сайта https://yarnovosti.com/news/v-yaroslavskoy-oblasti-pyatero-mujchin-pronikli-nochyu-v-detskiy-lager/:
+div;section fullWidth;p
+
